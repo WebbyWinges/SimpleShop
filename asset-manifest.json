@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SimpleShop/static/css/main.33906575.css",
+    "main.js": "/SimpleShop/static/js/main.f9d3d325.js",
+    "static/media/room.jpg": "/SimpleShop/static/media/room.20e70629601315b81ce0.jpg",
+    "index.html": "/SimpleShop/index.html",
+    "main.33906575.css.map": "/SimpleShop/static/css/main.33906575.css.map",
+    "main.f9d3d325.js.map": "/SimpleShop/static/js/main.f9d3d325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33906575.css",
+    "static/js/main.f9d3d325.js"
+  ]
+}
