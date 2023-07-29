@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+.item{
+  width:100%;
+  float: left;
+  margin-bottom: 15px;
+}
+
+.item img{
+  width:80px;
+  float: left;
+  margin-right: 20px;
+}
+
+.item h2{
+ font-size: 20px;
+ margin: 0;
+}
+
+.item p{
+  color: #797979;
+  margin: 0;
+}
+.deleteIcon {
+  float:right;
+  color: #575252;
+  position: relative;
+  top: -30px;
+  cursor: pointer;
+  transition: color, transform 500ms ease;
+}
+
+.deleteIcon:hover {
+  color: #ca5252;
+  transform: scale(1.5);
+}
